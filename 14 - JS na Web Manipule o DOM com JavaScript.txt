@@ -1,0 +1,40 @@
+https://cursos.alura.com.br/formacao-front-end
+https://cursos.alura.com.br/course/javascript-manipulacao-dom
+
+Instalar extensão Live Server no VsCode
+ctrl+shift+p -> reload window
+Clicar em Go Live, na barra inferios do VSCode
+
+npm install -g live server
+no terminal, digitar live -server para dodar com o servidor, no navegador 
+
+
+O DOM é a representação desse arquivo HTML em formato de nós, 
+em que cada nó é um objeto e cada um desses objetos representa uma tag ou texto do nosso arquivo HTML
+
+1 - CONHECENDO O DOM 
+Percorrer a árvore do DOM
+Utilizar o querySelector para selecionar elementos da árvore do DOM
+Funcionamento da estrutura do DOM
+
+2 - COMPORTAMENTO DO FORMULÁRIO
+Utilizar data-attributes
+Utilizar o método addEventListner para escutar eventos no elemento
+Prevenir o comportamento padrão do formulário
+
+3 - ADICIONAR ITEM NA LISTA
+Para criar um template de um parágrafo que receba tanto conteúdo HTML e JavaScript  usar <p>${ }</p>
+Utilizar template strings
+Colocar um elemento filho dentro do elemento pai utilizando o método appendChild
+Criar elementos utilizando o método createElement
+
+4 - CONCLUIR TAREFA
+Adicionar classe CSS utilizando o método toggle
+Utilizar o atributo parentElement para subir um elemento na árvore do DOM
+Encontrar o alvo do evento utilizando a propriedade target
+Utilizar IIFE
+
+5 - REMOVER TAREFA
+Utilizar import/export
+Remover elementos do DOM com o método remove
+Entender Same Origin Police e CORS
